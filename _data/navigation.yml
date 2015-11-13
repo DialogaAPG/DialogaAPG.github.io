@@ -46,10 +46,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Busca"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contato"
   url: "/contact/"
   side: right
