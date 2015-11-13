@@ -1,4 +1,4 @@
-- title: In%iacute;cio
+- title: Início
   url: "/"
   side: left
 
@@ -10,9 +10,9 @@
   url: "/propostas/"
   side: left
   dropdown:
-  - title: "Ass&eacute;dio Moral na p%oacute;s-gradua%ccedil;&atilde;o"
+  - title: "Assédio Moral na pós-graduação"
     url: "/propostas/grid/"
-  - title: "Otimiza%ccedil;&atilde;o do Bandej&atilde;o"
+  - title: "Otimização do Bandejão"
     url: "/propostas/typography/"
   - title: "Page/Post"
     url: "/propostas/page/"
