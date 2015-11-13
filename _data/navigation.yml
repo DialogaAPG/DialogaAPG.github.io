@@ -1,63 +1,43 @@
-- title: Start
+- title: In%iacute;cio
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Integrantes
+  url: "/integrantes/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Propostas"
+  url: "/propostas/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
+  - title: "Ass&eacute;dio Moral na p%oacute;s-gradua%ccedil;&atilde;o"
+    url: "/propostas/grid/"
+  - title: "Otimiza%ccedil;&atilde;o do Bandej&atilde;o"
+    url: "/propostas/typography/"
   - title: "Page/Post"
-    url: "/design/page/"
+    url: "/propostas/page/"
   - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
+    url: "/propostas/post-left-sidebar/"
   - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
+    url: "/propostas/post-right-sidebar/"
   - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
+    url: "/propostas/page-fullwidth/"
   - title: "Blog-Page"
     url: "/blog/"
   - title: "Video"
-    url: "/design/video/"
+    url: "/propostas/video/"
   - title: "Gallery"
-    url: "/design/gallery/"
+    url: "/propostas/gallery/"
   - title: "Portfolio"
-    url: "/design/portfolio/"
+    url: "/propostas/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Programa"
+  url: "/programa/"
   side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Apoiadores"
+  url: "/apoiadores/"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
