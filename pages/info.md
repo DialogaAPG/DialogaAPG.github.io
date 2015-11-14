@@ -46,11 +46,11 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
  [5]: http://www.smashingmagazine.com/
  [6]: https://github.com/
  [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
+ [8]: {{ site.url }}/propostas/gallery/
+ [9]: {{ site.url }}/propostas/video/
+ [10]: {{ site.url }}/propostas/grid/
+ [11]: {{ site.url }}/propostas/typography/
+ [12]: {{ site.url }}/propostas/mediaelement_js/
  [13]: #
  [14]: #
  [15]: #
