@@ -6,7 +6,7 @@ teaser: "Create powerful multi-device layouts quickly and easily with the 12-col
 breadcrumb: true
 categories:
     - propostas
-permalink: /propostas/grid/
+permalink: /propostas/assedio/
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
