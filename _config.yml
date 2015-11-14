@@ -24,7 +24,7 @@ author: rtuma
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://dialoga.xyz'
+url: #'http://dialoga.xyz'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
