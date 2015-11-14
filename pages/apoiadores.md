@@ -27,7 +27,7 @@ header:
 *Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
 
 ### Page/Post
-The [page/post format]({{ site.url }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
+The [page/post format]({{ site.url }}/propostas/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
 
 use in front matter via: `layout: page`
 
@@ -41,7 +41,7 @@ If you want to show metadata like categories, tags and date at the end of the pa
 
 
 ### Page Full Width
-If you want full control of styling a page, then use the [page fullwidth template]({{ site.url }}/design/page-fullwidth/). To set up a grid, just use the [foundation grid system](http://foundation.zurb.com/docs/components/grid.html).
+If you want full control of styling a page, then use the [page fullwidth template]({{ site.url }}/propostas/page-fullwidth/). To set up a grid, just use the [foundation grid system](http://foundation.zurb.com/docs/components/grid.html).
 
 use in front matter via: `layout: page-fullwidth`
 
@@ -53,7 +53,7 @@ use in front matter via: `layout: frontpage`
 
 
 ### Video
-If you're a video producer or cineast, you'll like the [video template]({{ site.url }}/design/video/). It darkens the layout to black and lets the video stand out full-width.
+If you're a video producer or cineast, you'll like the [video template]({{ site.url }}/propostas/video/). It darkens the layout to black and lets the video stand out full-width.
 
 use in front matter via: `layout: video`
 
