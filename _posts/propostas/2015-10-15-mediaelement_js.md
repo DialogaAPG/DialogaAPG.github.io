@@ -7,7 +7,7 @@ subheadline: "Video & Music Player"
 title: "Play Audio & Video with mediaelement.js"
 teaser: "Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of <em>mediaelement.js</em>. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8."
 categories:
-  - design
+  - propostas
 tags:
   - audio player
   - video player
@@ -42,7 +42,7 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
 
 ## »Music From All Around The World«
 
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
+[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork propostased by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
 
 ### B-Ju - »Philly Run«
 

@@ -229,7 +229,7 @@ Possible parameter for the loop:
 The loop looks like this when you use all parameters. Single parameters are possible of course.
 
 ~~~
-{% raw %}{% include list-posts entries='3' offset='1' category='design' %}{% endraw %}
+{% raw %}{% include list-posts entries='3' offset='1' category='propostas' %}{% endraw %}
 ~~~
 
 ### next-previous-post-in-category.html

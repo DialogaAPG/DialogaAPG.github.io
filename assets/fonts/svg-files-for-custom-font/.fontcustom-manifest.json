@@ -222,7 +222,7 @@
     "debug": false,
     "font_ascent": 448,
     "font_descent": 64,
-    "font_design_size": 20,
+    "font_propostas_size": 20,
     "font_em": 512,
     "font_name": "entypo-custom",
     "fonts": "fonts",
