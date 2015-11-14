@@ -48,7 +48,7 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
  [7]: http://sauer.io
  [8]: {{ site.url }}/propostas/gallery/
  [9]: {{ site.url }}/propostas/video/
- [10]: {{ site.url }}/propostas/grid/
+ [10]: {{ site.url }}/propostas/assedio/
  [11]: {{ site.url }}/propostas/typography/
  [12]: {{ site.url }}/propostas/mediaelement_js/
  [13]: #
