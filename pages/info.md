@@ -39,18 +39,18 @@ Please make *Feeling Responsive* yours and if you like it, please link back to m
 Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/propostas/gallery/
- [9]: {{ site.url }}/propostas/video/
- [10]: {{ site.url }}/propostas/assedio/
- [11]: {{ site.url }}/propostas/bandeco/
- [12]: {{ site.url }}/propostas/mediaelement_js/
+ [1]: {{ site.url }}/propostas/assedio/ 
+ [2]: {{ site.url }}/propostas/bandeco/ 
+ [3]: {{ site.url }}/propostas/regularizacao/
+ [4]: {{ site.url }}/propostas/interacaoprivada/
+ [5]: {{ site.url }}/propostas/extensao/
+ [6]: {{ site.url }}/propostas/transparencia/
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
+ [11]: #
+ [12]: #
  [13]: #
  [14]: #
  [15]: #
