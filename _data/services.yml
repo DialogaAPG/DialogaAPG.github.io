@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "Mapa do site"
 
-- name: "Contact"
+- name: "Contato"
   url: "/contact/"
-  title: "Contact"
+  title: "Contato"
 
 - name: "RSS"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "RSS Feed"
 
 - name: "Atom"
   url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+  title: "Atom Feed"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+  title: "Sitemap para Google Webmaster Tools"
