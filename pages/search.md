@@ -1,7 +1,7 @@
 ---
 permalink: /search/
 layout: page
-title: "Busca"
+title: "Procure em nossas propostas (Google)"
 sitemap: false
 ---
 
