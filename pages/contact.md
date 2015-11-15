@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Contact"
+title: "Contacto"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+subheadline: ""
+teaser: "Entre em conato conosco!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Senta-se à vontade para nos enviar sugestões de propostas, reclamações, participar da nossa chapa, ou até uma mensagem de apoio!
 
 <div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
+<iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://rtguariento.wufoo.com/forms/entre-em-contato-com-dialoga-apg/"></iframe>
 </div>
 
 
