@@ -2,7 +2,7 @@
 layout: page
 sidebar: left
 subheadline: Templates
-title:  "Page/Post With Left Sidebar"
+title:  "Interação da pós-graduação com o setor produtivo"
 teaser: "This is a example of page/post with a sidebar on the left."
 breadcrumb: true
 tags:

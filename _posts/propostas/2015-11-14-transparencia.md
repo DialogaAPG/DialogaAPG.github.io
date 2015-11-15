@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
+title:  "Transparência na APG"
 subheadline:  "Multi-Device Layouts"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 categories:
