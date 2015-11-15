@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 sidebar: left
-subheadline: Templates
+subheadline: Empreendedorismo e Universidade
 title:  "Interação da pós-graduação com o setor produtivo"
 teaser: "This is a example of page/post with a sidebar on the left."
 #breadcrumb: true
