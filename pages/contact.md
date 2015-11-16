@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Contacto"
+title: "Contato"
 meta_title: "Contact and use our contact form"
 subheadline: ""
-teaser: "Entre em conato conosco!"
+teaser: "Entre em contato conosco!"
 permalink: "/contact/"
 ---
 Senta-se à vontade para nos enviar sugestões de propostas, reclamações, participar da nossa chapa, ou até uma mensagem de apoio!
