@@ -2,8 +2,8 @@
 layout: page-fullwidth
 subheadline: "Documentação e Transparência"
 title:  "Regularização jurídica e transparência da APG"
-teaser: "The default template for posts and pages aligns the page beautifully in the middle. <strong>But</strong> you can customize posts/pages easily via switches in the front matter to <em>get a sidebar</em> and/or to <em>turn off meta-information</em> at the end of the page like categories, tags and dates."
-meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
+teaser: "A APG deve ser regularizada e transparente!"
+meta_teaser: "A APG deve ser regularizada e transparente!"
 #breadcrumb: true
 categories:
     - propostas
@@ -22,13 +22,13 @@ author: mo
     <tr>
         <td><b><u><center>Por quê?</center></u></b></td><td><b><u><center>Nossas propostas</center></u></b></td>
     </tr><tr>
-    <tr>
-        <td><p></p>
-            <p></p>
+        <td><p>Apesar de existir há alguns anos, nossa APG não está oficializada, não possuindo CNPj nem um estatuto registrado em cartório. Tal situação reduz a força política de diálogo do órgão dentro da universidade, na participação de conferências de direitos dos pós-graduandos (por exemplo CONAP: http://www.anpg.org.br/?p=9311) e reduz os próprios meis de cobrança dos estudantes à associação, que não tem nenhum documento oficial para ser usado de base</p>
+            <p>Reformularemos o estatuto, que será referendado pela comunidade via votação online pelo sistema Helios, e oficializaremos a associação para todos os fins legais. Além disso, <u><b>todos</b></u> os documentos e contas da APG serão disponibilizados para consulta pública, com garantia de anonimato de nomes, quando necessário. Não há razão para não expor documentos oficiais da comunidade que ela se propõe a representar.</p>
         </td><td>
             <p><ul>
-                <li>P1</li>
-                <li>P2</li>
+                <li>Reformulação do estatuto, referendado pela comunidade via sistema de votação online</li>
+                <li>Regularização da APG para fins legais</li>
+                <li>Transparência total de documentos e financeira</li>
             </ul></p>
         </td>
     </tr>

@@ -3,7 +3,7 @@ layout: page-fullwidth
 sidebar: right
 subheadline: Atividades extra-curriculares
 title:  "Integração da pós-graduação"
-teaser: ""
+teaser: "Promoção de seminários de pós-graduandos"
 #breadcrumb: true
 tags:
     - post format
