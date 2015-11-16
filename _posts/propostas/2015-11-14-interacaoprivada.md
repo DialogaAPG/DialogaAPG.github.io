@@ -3,7 +3,7 @@ layout: page-fullwidth
 sidebar: left
 subheadline: Empreendedorismo e Universidade
 title:  "Interação da pós-graduação com o setor produtivo"
-teaser: "blabla"
+teaser: "A Universidade deve apoiar projetos de empreendedorismo e inovação dos pós-graduandos"
 #breadcrumb: true
 tags:
     - post format
