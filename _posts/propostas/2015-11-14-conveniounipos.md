@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Melhora dos serviços da Universidade via pós-graduação"
 subheadline: "Atividades Extracurriculares"
 meta_teaser: "Convênio da Universidade com os pós-graduandos"
-teaser: "Convênio da Universidade com os pós-graduandos para desenvolvimento de serviços e produtos de inovação para a comunidade universitria"
+teaser: "Convênio da Universidade com os pós-graduandos para desenvolvimento de serviços e produtos de inovação para a comunidade universitária"
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
