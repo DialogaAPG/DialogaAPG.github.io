@@ -22,7 +22,6 @@ categories:
             <p>Criação de convênios da Universidade com pós-graduandos e laboratórios para resolver problemas que empresas terceirizadas seriam contratadas para fazer. Lutaremos para que os contratos contenham os seguintes itens:<ul>
                 <li>Auxilio financeiro sobre o valor da bolsa, proporcional à complexidade do serviço</li>
                 <li>Contagem de créditos pelo serviço realizado/produto desenvolvido</li>
-                <li>Verba para compra de materiais científicos para o laboratório, como estímulo para o orientador participar do desenvolvimento</li>
             </ul></p>
         </td>
     </tr>
