@@ -24,7 +24,7 @@ image:
         </p>
         </td><td>
             <p><ul>
-                <li>Expandir o aloja para pós-graduandos sem renda para se manterem na cidade</li>
+                <li>Expandir o aloja para que os pós-graduandos sem renda possam se manter</li>
                 <li>Discutir com o conselho do campus sobre a criação de bolsas de permanência estudantil para pós-graduandos</li>
             </ul></p>
         </td>

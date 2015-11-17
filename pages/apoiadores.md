@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Apoiadores"
-subheadline: "As pessoas que já declararam apoio em nós"
+subheadline: "As pessoas que já nos declararam apoio"
 teaser: ""
 permalink: "/apoiadores/"
 header:
