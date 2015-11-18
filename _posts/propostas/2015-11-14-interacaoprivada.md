@@ -25,6 +25,7 @@ image:
             <p><ul>
                 <li>Regulamentação de consultorias "Freelancer" entre pós-graduandos e a iniciativa privada</li>
                 <li>Apoio da Universidade na incubação de ideias inovadoras vindas de pós-graduandos</li>
+                <li>Divulgação dos programas de bolsas de interação com a indústria, com o Doutorado Acadêmico Industrial (DAI) ou o Doutorado-Sanduíche Empresarial (SWI)</li>
             </ul></p>
         </td>
     </tr>
