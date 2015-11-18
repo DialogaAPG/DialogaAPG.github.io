@@ -10,9 +10,9 @@ tags:
 categories:
     - propostas
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "iniciativaprivada.jpg"
 image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+    thumb: "iniciativaprivada.jpg"
 ---
 <table style="width: 100%">
     <tr>
