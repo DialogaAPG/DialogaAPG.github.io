@@ -13,9 +13,9 @@ tags:
     - post
     - post format
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "regularizacao.jpg"
 image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+    thumb: "regularizacao.jpg"
 author: mo
 ---
 <table style="width: 100%">
