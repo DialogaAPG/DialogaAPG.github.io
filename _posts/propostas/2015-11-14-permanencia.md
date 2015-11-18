@@ -8,9 +8,9 @@ categories:
     - propostas
 permalink: /propostas/permanencia/
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "aloja.jpg"
 image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+    thumb: "aloja.jpg"
 ---
 <table style="width: 100%">
     <tr>
