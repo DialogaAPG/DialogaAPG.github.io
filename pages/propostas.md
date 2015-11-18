@@ -4,7 +4,7 @@ show_meta: false
 title: "Nossas propostas"
 subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "black.png"
 permalink: "/propostas/"
 ---
 <ul>

@@ -5,7 +5,7 @@ title: "Nossos integrantes"
 subheadline: ""
 teaser: "Conheça a composição da nossa chapa e venha você também fazer parte!"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "black.png"
 permalink: "/integrantes/"
 ---
 <table>
