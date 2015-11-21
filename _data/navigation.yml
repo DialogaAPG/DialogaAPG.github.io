@@ -31,8 +31,8 @@
   url: "/programa/"
   side: left
 
-- title: "Apoiadores"
-  url: "/apoiadores/"
+- title: "Calendário"
+  url: "/calendario/"
   side: left
 
 - title: Blog
