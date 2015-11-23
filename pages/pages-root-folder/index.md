@@ -24,10 +24,10 @@ widget2:
   text: 'Leia nossas propostas e entre em contato com os nossos integrantes para colaborar com o nosso programa!'
 
 widget3:
-  title: "Apoiadores"
-  url: '/apoiadores/'
+  title: "Calendario"
+  url: '/calendario/'
   image: widget-1-302x182.jpg
-  text: 'Conheça as pessoas que já declaram voto em nós.'
+  text: 'Fique atento ao calendario das eleições!!'
 
 #
 # Use the call for action to show a button on the frontpage
