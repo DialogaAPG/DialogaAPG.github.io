@@ -2,7 +2,7 @@
 layout: page
 subheadline: ""
 title: "Nosso programa"
-teaser: "Colocaremos aqui o programa com nossas propostas para a gestão 2016! Nos cobre!!"
+teaser: "Conheça nosso programa para a gestão 2016!"
 header:
    image_fullwidth: "black.png"
 permalink: "/programa/"
@@ -12,3 +12,4 @@ permalink: "/programa/"
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+<a href="../images/programa.pdf">Baixe aqui nosso programa em PDF</a>
