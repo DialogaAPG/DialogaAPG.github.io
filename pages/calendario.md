@@ -35,7 +35,7 @@ header:
         <td>Plataforma Helios(online)</td>
     </tr><tr>
         <td>03 de dezembro (quinta-feira)</td>
-        <td>Dia todo</td>
+        <td>Até as 15h</td>
         <td>Eleições</td>
         <td>Plataforma Helios(online)</td>
 </table>
