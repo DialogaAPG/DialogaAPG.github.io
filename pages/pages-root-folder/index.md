@@ -14,19 +14,19 @@ header:
 widget1:
   title: "Quem somos?"
   url: '/integrantes/'
-  image: widget-1-302x182.jpg
+#  image: widget-1-302x182.jpg
   text: 'Contamos com integrantes do IFSC, da EESC e do ICMC. Venha participar, como membro, com propostas/sugestões de programa ou com o seu apoio!'
 
 widget2:
   title: "Nossas propostas"
   url: '/propostas/'
-  image: widget-1-302x182.jpg
+#  image: widget-1-302x182.jpg
   text: 'Leia nossas propostas e entre em contato com os nossos integrantes para colaborar com o nosso programa!'
 
 widget3:
   title: "Calendario"
   url: '/calendario/'
-  image: widget-1-302x182.jpg
+#  image: widget-1-302x182.jpg
   text: 'Fique atento ao calendario das eleições!!'
 
 #
