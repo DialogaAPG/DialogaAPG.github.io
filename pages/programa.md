@@ -2,7 +2,7 @@
 layout: page
 subheadline: ""
 title: "Nosso programa"
-teaser: "Conheça nosso programa para a gestão 2016!"
+teaser: "Conheça nosso programa para a gestão 2017!"
 header:
    image_fullwidth: "black.png"
 permalink: "/programa/"

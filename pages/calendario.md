@@ -7,7 +7,7 @@ permalink: "/calendario/"
 header:
    image_fullwidth: "black.png"
 ---
-<table>
+<!--table>
     <tr>
         <td><b><center>Data</center></b></td>
         <td><b><center>Horário</center></b></td>
@@ -38,4 +38,4 @@ header:
         <td>Até as 15h</td>
         <td>Eleições</td>
         <td>Plataforma Helios(online)</td>
-</table>
+</table-->
