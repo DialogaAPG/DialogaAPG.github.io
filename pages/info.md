@@ -39,14 +39,14 @@ Please make *Feeling Responsive* yours and if you like it, please link back to m
 Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
- [1]: {{ site.url }}/propostas/assedio/ 
- [2]: {{ site.url }}/propostas/bandeco/ 
- [3]: {{ site.url }}/propostas/permanencia/ 
- [4]: {{ site.url }}/propostas/regularizacao/
- [5]: {{ site.url }}/propostas/interacaoprivada/
- [6]: {{ site.url }}/propostas/extensao/
- [7]: {{ site.url }}/propostas/transparencia/
- [8]: #
+ [1]: {{ site.url }}/propostas/assedio/
+ [2]: {{ site.url }}/propostas/reforma/
+ [3]: {{ site.url }}/propostas/representacao/ 
+ [4]: {{ site.url }}/propostas/permanencia/ 
+ [5]: {{ site.url }}/propostas/regularizacao/
+ [6]: {{ site.url }}/propostas/interacaoprivada/
+ [7]: {{ site.url }}/propostas/extensao/
+ [8]: {{ site.url }}/propostas/transparencia/
  [9]: #
  [10]: #
  [11]: #

@@ -167,6 +167,18 @@ td {
     border-color: #fff;
 }
 
+table.tablehome {
+    border: none !important;
+    border-spacing: 0px;
+}
+
+td.tablehome {
+    border: none !important;
+    background: $body-bg;
+    border-spacing: 0px;
+    padding: 0px;
+}
+
 
 
 /* Code

@@ -10,10 +10,12 @@
   url: "/propostas/"
   side: left
   dropdown:
+  - title: "Reforma da sede e visibilidade das ações da APG/USP-SC"
+    url: "/propostas/reforma/"
+  - title: "Representação Discente"
+    url: "/propostas/representacao/"
   - title: "Assédio Moral na pós-graduação"
     url: "/propostas/assedio/"
-  - title: "Otimização do Bandejão"
-    url: "/propostas/bandeco/"
   - title: "Permanência estudantil"
     url: "/propostas/permanencia/"
   - title: "Regularização jurídica da APG"

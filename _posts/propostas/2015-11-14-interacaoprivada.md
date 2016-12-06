@@ -10,9 +10,9 @@ tags:
 categories:
     - propostas
 header:
-    image_fullwidth: "iniciativaprivada.jpg"
+    image_fullwidth: "black.png"
 image:
-    thumb: "iniciativaprivada.jpg"
+    thumb: "black.png"
 ---
 <table style="width: 100%">
     <tr>

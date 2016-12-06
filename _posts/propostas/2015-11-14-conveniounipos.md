@@ -5,9 +5,9 @@ subheadline: "Atividades Extracurriculares"
 meta_teaser: "Convênio da Universidade com os pós-graduandos"
 teaser: "Convênio da Universidade com os pós-graduandos para desenvolvimento de serviços e produtos de inovação para a comunidade universitária"
 header:
-    image_fullwidth: "gestao.jpg"
+    image_fullwidth: "black.png"
 image:
-    thumb: "gestao.jpg"
+    thumb: "black.png"
 categories:
     - propostas
 ---

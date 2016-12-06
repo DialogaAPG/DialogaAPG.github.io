@@ -13,9 +13,9 @@ tags:
     - post
     - post format
 header:
-    image_fullwidth: "regularizacao.jpg"
+    image_fullwidth: "black.png"
 image:
-    thumb: "regularizacao.jpg"
+    thumb: "black.png"
 author: mo
 ---
 <table style="width: 100%">

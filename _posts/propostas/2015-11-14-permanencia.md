@@ -8,24 +8,27 @@ categories:
     - propostas
 permalink: /propostas/permanencia/
 header:
-    image_fullwidth: "aloja.jpg"
+    image_fullwidth: "black.png"
 image:
-    thumb: "aloja.jpg"
+    thumb: "black.png"
 ---
 <table style="width: 100%">
     <tr>
         <td><b><u><center>Por quê?</center></u></b></td><td><b><u><center>Nossas propostas</center></u></b></td>
     </tr><tr>
-        <td><p> Ao ingressar em um curso de pós-graduação, aceitamos o desafio de nos dedicar integralmente a um projeto de pesquisa. Embora as atividades que iremos desempenhar tenham os mesmos moldes de um emprego onde o contrato é o termo de outorga da bolsa, a pesquisa não é reconhecida como uma atividade laboril. </p>
-        <p> Com os últimos cortes de verba para a pós, torna-se cada vez mais difícil promover o interesse para a pesquisa na pós-graduação, dado que nem todo estudante que se dispõe a desenvolver pesquisa é contemplado com alguma modalidade de bolsa. Assim, sua permanência fica condicionada à sua disposição (ou sacrifício) em conciliar a pós com um emprego. </p>
-        <p> Aos contemplados com bolsa, a condição de dedicação exclusiva com carga de 40h semanais impõe um vínculo entre o aluno, o orientador e a agência de fomento de tal forma que ele não poderá desempenhar outra atividade para complementar renda. Além do impedimento formal para trabalhar em outra coisa, existe também um  obstáculo intrínseco da própria pesquisa que é o tempo livre que o estudante dispõe para buscar outras fontes, pois muitas vezes o tempo trabalhando no projeto extrapola a carga horária oficial. </p> 
-        <p> Infelizmente, o impasse no reajuste dos valores das bolsas é outra barreira à permanência estudantil na pós-graduação. Defasados há anos, as bolsas não acompanham a inflação, o que faz com que o poder de compra do estudante decresça continuamente. </p>
-        <p> Todos esses fatores somados levam a um desgaste emocional intenso, dado que o estudante efetivamente trabalha em sua pesquisa, mas não é reconhecido como trabalhador; seu tempo de dedicação é, muitas vezes, maior do que o instituído formalmente, o que leva à sobrecarga; o fruto de seus esforços - a bolsa - não garante sua qualidade de vida e não reflete sua dedicação para promover conhecimento em sua área. 
-        </p>
+        <td>
+            <p>A partir das políticas públicas afirmativas e a expansão do ensino superior vivida nos últimos anos, estudantes com outro perfil socioeconômico e racial ingressaram na universidade. Esta mudança que se inicia na graduação chega também à pós-graduação e é necessário ampliar nossa concepção sobre permanência estudantil, entendendo que ela deve ser oferecida a todo estudante de baixa renda e condições de vulnerabilidade social.</p>
+            <p>A condição híbrida do pós-graduando - que está em uma importante etapa de formação acadêmica, mas também exerce atividade profissional de pesquisador - o mantém em um vácuo regulatório, pois não possui os mesmos direitos garantidos aos trabalhadores formais e também frequentemente não goza dos direitos conquistados pelos corpos discentes das universidades. É importante que esta condição seja reconhecida e regulamentada, possibilitando melhores condições de formação e pesquisa a estes jovens pesquisadores. </p>
+
         </td><td>
             <p><ul>
-                <li>Expandir o aloja para que os pós-graduandos sem renda possam se manter</li>
-                <li>Discutir com o conselho do campus sobre a criação de bolsas de permanência estudantil para pós-graduandos</li>
+                <li>Defender que os pós-graduandos baixa renda possam morar no aloja.</li>
+                <li>Defender, junto com o CAASO, a expansão do Aloja para todos os estudantes que precisem.</li>
+                <li>Defender a criação de bolsas de permanência estudantil para pós-graduandos de baixa renda junto ao conselho gestor do campus.</li>
+                <li>Defender, junto com o CAASO, a conquista do passe livre estudantil aos discentes;</li>
+                <li>Discutir a integração dos serviços de saúde da USP-São Carlos com o SUS.</li>
+                <li>Discutir com a instituição o fornecimento de um serviço psicológico específico para as necessidades da pós-graduação.</li>
+
             </ul></p>
         </td>
     </tr>
