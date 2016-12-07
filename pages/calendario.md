@@ -14,17 +14,17 @@ header:
         <td><b><center>Evento</center></b></td>
         <td><b><center>Local</center></b></td>
     </tr><tr>
-        <td>07 de dezembro (terça-feira)</td>
+        <td>07 de dezembro (quarta-feira)</td>
         <td>17h00 - 20h00</td>
         <td>Votação</td>
         <td>Em frente ao bandejão (Campus I)</td>
     </tr><tr>
-        <td>08 de dezembro</td>
+        <td>08 de dezembro (quinta-feira)</td>
         <td>11h00 - 14h00</td>
         <td>Votação</td>
         <td>Em frente ao bandejão (Campus I)</td>
     </tr><tr>
-        <td>08 de dezembro</td>
+        <td>08 de dezembro (quinta-feira)</td>
         <td>17h00 - 20h00</td>
         <td>Votação</td>
         <td>Em frente ao bandejão (Campus I)</td>
